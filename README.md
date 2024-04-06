@@ -1,5 +1,5 @@
 <h1>Hello! I´m Yasser <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f44b.gif" width="30px"> </h1>
-<h2>Frontend developer trainee 🎨</h2>
+<h2>Web developer trainee 🎨</h2>
 
 ### Technologies
 ![Html](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
