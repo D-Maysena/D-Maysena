@@ -2,8 +2,6 @@
 
 ## Web Developer Trainee 🎨
 
----
-
 ### 🛠️ Technologies & Tools
 
 <p align="left">
