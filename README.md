@@ -1,6 +1,12 @@
 # Hello! I'm Yasser <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f44b.gif" width="30px">
 
 ## Web Developer Trainee 🎨
+---
+
+### 💡 About Me
+
+I'm Yasser, a web developer trainee passionate about learning and implementing the latest web technologies. I enjoy solving complex problems and working on projects that make a difference.
+
 
 ### 🛠️ Technologies & Tools
 
@@ -29,12 +35,6 @@
   <a href="https://www.linkedin.com/in/yasser-darce-mairena-00917126b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Yasser%20Darce-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:yasserdarce15@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-yasserdarce15@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
-
----
-
-### 💡 About Me
-
-I'm Yasser, a web developer trainee passionate about learning and implementing the latest web technologies. I enjoy solving complex problems and working on projects that make a difference.
 
 ---
 
