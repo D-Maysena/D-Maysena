@@ -1,6 +1,6 @@
 # Hello! I'm Yasser <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f44b.gif" width="30px">
 
-## Web Developer Trainee 🎨
+## Web Developer 🎨
 ---
 
 ### 💡 About Me
